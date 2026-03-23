@@ -1,8 +1,8 @@
-package com.bkroot.java.sm.operator;
+package com.bkroot.corejava.basic.operator;
 
 import java.util.Scanner;
 
-public class Comparison {
+public class comp {
     public static void main(String[] args) {
         System.out.println("Comparison of number ");
         Scanner sc = new Scanner(System.in);
@@ -15,8 +15,8 @@ public class Comparison {
         {
             System.out.println(a+ "Is a greater");
         }
-        else {
-            System.out.println(b+ " Is a greater ");
+         else {
+            System.out.println(b+ "Is a greater ");
         }
     }
 }

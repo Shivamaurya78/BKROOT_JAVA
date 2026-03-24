@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d091df1a-4e1e-43dc-8d93-c96a219b3321" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/oops/encapsulation/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/oops/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/oops/encapsulation/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/oops/encapsulation/UserPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/oops/polymorphism/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BKROOT_JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BKROOT_JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bkroot/java/sm/arrays/max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/arrays/max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bkroot/java/sm/arrays/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bkroot/java/sm/arrays/sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shivamaurya78&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shivamaurya78/BKROOT_JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;a933619a-07e1-4ac4-814a-d0404319458f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3BLFFxUJJDQDyTIKa3IhfNTJOrP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bank.executor": "Run",
+    "Application.Comparison.executor": "Run",
+    "Application.Const.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mainn.executor": "Run",
+    "Application.MathUtillity.executor": "Run",
+    "Application.Overloading.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.UserPassword.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.max.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/BKROOT_Projects/BKROOT_JAVA",
+    "onboarding.tips.debug.path": "E:/Intership_Program/java/BKROOT_JAVA/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2987952"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MathUtillity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bkroot.java.sm.test.MathUtillity" />
+      <module name="BKROOT_JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bkroot.java.sm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MathUtillity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d091df1a-4e1e-43dc-8d93-c96a219b3321" name="Changes" comment="" />
+      <created>1774260345872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774260345872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/bkroot/java/sm/constructor/Test.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

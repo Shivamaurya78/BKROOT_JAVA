@@ -1,4 +1,4 @@
-package com.bkroot.corejava.basic.array;
+package com.bkroot.java.sm.arrays;
 
 public class sum {
     public static void main(String[] args) {

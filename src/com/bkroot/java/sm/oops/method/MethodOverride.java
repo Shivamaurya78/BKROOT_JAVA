@@ -1,4 +1,4 @@
-package OOPS.Method;
+package com.bkroot.java.sm.oops.method;
 class Animal{
     void sound()
     {

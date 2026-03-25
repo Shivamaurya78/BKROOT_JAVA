@@ -1,4 +1,4 @@
-package com.bkroot.corejava.basic.OOPS.Inheritance;
+package com.bkroot.java.sm.oops.inheritance;
 // Multilevel Inheritance
 class Animaal{
     void eat()

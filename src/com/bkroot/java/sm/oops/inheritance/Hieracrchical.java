@@ -1,4 +1,4 @@
-package com.bkroot.corejava.basic.OOPS.Inheritance;
+package com.bkroot.java.sm.oops.inheritance;
 // Hierchical Inheritance
 class GrandFather{
     void height()

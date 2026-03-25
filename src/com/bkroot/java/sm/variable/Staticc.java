@@ -1,4 +1,4 @@
-package com.bkroot.corejava.basic.variable;
+package com.bkroot.java.sm.variable;
 
 public class Staticc {
     static String college = "BGI";  // Static variable

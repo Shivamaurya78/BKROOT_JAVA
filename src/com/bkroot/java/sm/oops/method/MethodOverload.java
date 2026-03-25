@@ -1,4 +1,5 @@
-package OOPS.Method;
+package com.bkroot.java.sm.oops.method;
+
 
 public class MethodOverload {
     int add(int a , int b)

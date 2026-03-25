@@ -1,4 +1,4 @@
-package com.bkroot.corejava.basic.variable;
+package com.bkroot.java.sm.variable;
 
 public class test {
     static   String course;   // static varibale

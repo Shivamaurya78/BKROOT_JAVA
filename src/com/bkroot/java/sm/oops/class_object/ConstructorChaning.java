@@ -1,4 +1,4 @@
-package com.bkroot.corejava.basic.OOPS.ClassObject;
+package com.bkroot.java.sm.oops.class_object;
 
 public class ConstructorChaning {
     String name;
